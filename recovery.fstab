@@ -34,4 +34,4 @@
 /sdcard		vfat		/dev/null
 /system		ext4		/dev/block/mmcblk0p32
 # USB-OTG
-/sdcard		vfat		/dev/block/sda1	/dev/block/sda
+/external_sd		vfat		/dev/block/sda1	/dev/block/sda
