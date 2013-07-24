@@ -51,5 +51,5 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 # Custom Recovery
 BOARD_HAS_NO_SELECT_BUTTON := true
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
-TARGET_PREBUILT_RECOVERY_KERNEL := device/htc/mystul/kernel
-TARGET_RECOVERY_INITRC := device/htc/mystul/recovery/init.rc
+TARGET_PREBUILT_RECOVERY_KERNEL := device/htc/m4/kernel
+TARGET_RECOVERY_INITRC := device/htc/m4/recovery/init.rc
