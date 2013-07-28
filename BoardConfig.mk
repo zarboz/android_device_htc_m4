@@ -1,7 +1,7 @@
 USE_CAMERA_STUB := true
 
 # inherit from the proprietary version
--include vendor/htc/mystul/BoardConfigVendor.mk
+-include vendor/htc/m4/BoardConfigVendor.mk
 
 # Platform
 TARGET_BOARD_PLATFORM := msm8960
